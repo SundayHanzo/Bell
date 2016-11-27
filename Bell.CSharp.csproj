@@ -68,6 +68,8 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Arrow.cs" />
     <Compile Include="Assets\Script\GageBar.cs" />
+    <Compile Include="Assets\Script\Shooter.cs" />
+    <Compile Include="Assets\Script\buloon.cs" />
     <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
     <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
     <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
